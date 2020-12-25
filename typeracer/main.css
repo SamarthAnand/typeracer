@@ -1,0 +1,35 @@
+#header
+{
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+    font-style: oblique; 
+    padding-top: 4%; 
+}
+#sub-head
+{
+    color: darkseagreen;
+    
+}
+#start
+{
+    background-color: black;
+    color: white;
+    font-size: x-large;
+}
+.disclaimer
+{
+    font-size: small;
+    color : rgb(54, 5, 54) ;
+}
+.highlight
+{
+    background-color: yellow;
+    font-weight: bolder;
+}
+.error
+{
+    background-color: red;
+    font-weight: bolder;
+}
